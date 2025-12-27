@@ -1,0 +1,14 @@
+.sample-icon-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.sample-icon-button__icon { display: inline-flex; align-items: center; justify-content: center; }
+.sample-icon-button--small { padding: 6px 8px; font-size: 0.85rem; }
+.sample-icon-button--medium { padding: 8px 10px; font-size: 1rem; }
+.sample-icon-button--large { padding: 10px 14px; font-size: 1.1rem; }
